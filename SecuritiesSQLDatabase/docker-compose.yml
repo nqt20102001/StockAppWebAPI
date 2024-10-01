@@ -1,0 +1,19 @@
+version: '3.8'  # Phiên bản của cú pháp docker-compose
+
+services:
+  db:  # Tên của dịch vụ (bạn có thể thay đổi tùy ý)
+    image: mcr.microsoft.com/mssql/server:2022-latest  # Image của SQL Server
+    container_name: stock_app_db  # Tên của container
+    environment:
+      - ACCEPT_EULA=Y  # Chấp nhận điều khoản EULA
+      - SA_PASSWORD=Abc@123456  # Mật khẩu SA cho SQL Server
+    ports:
+      - "1435:1433"  # Ánh xạ cổng từ host sang container
+    volumes:
+      - ./db_data:/var/opt/mssql/data  # Gắn thư mục trên máy với container
+    restart: always  # Tự động khởi động lại container nếu gặp sự cố
+    mem_limit: 2g  # Giới hạn bộ nhớ là 2 GB
+    memswap_limit: 3g  # Giới hạn bộ nhớ và swap là 3 GB
+
+
+  #docker-compose --file ./docker-compose.yml up -d

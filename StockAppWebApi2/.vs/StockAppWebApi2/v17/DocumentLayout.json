@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\iquoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\iquoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\testwebsocket.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\testwebsocket.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\models\\realtimequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\models\\realtimequote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\quoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\models\\stockappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\models\\stockappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\attributes\\jwtauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\attributes\\jwtauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\viewmodels\\watchlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\viewmodels\\watchlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\watchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\services\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\services\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\watchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\repositories\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\repositories\\iwatchlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\models\\watchlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\extensions\\httpcontextextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\extensions\\httpcontextextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\filters\\jwtauthorizefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\filters\\jwtauthorizefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|c:\\users\\ngquo\\source\\repos\\stockappwebapi2\\stockappwebapi2\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01247AFB-A060-4C60-A823-B73AB990D12D}|StockAppWebApi2\\StockAppWebApi2.csproj|solutionrelative:stockappwebapi2\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:07:29.953Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQuoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IQuoteRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\IQuoteRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IQuoteRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\IQuoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:14:06.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RealtimeQuote.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\RealtimeQuote.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Models\\RealtimeQuote.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\RealtimeQuote.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Models\\RealtimeQuote.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:06:28.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\IQuoteService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IQuoteService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\IQuoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:04:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\appsettings.json",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\appsettings.json",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\appsettings.json",
+              "RelativeToolTip": "StockAppWebApi2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T16:02:29.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:40:22.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IUserService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:42:56.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\UserService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\UserService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:42:08.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\StockController.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:59:59.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Program.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Program.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Program.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:08:18.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IStockRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:35:15.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Controllers\\QuoteController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:59:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testWebsocket.html",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\testWebsocket.html",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\testWebsocket.html",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\testWebsocket.html",
+              "RelativeToolTip": "StockAppWebApi2\\testWebsocket.html",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T14:27:06.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\StockService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\StockService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\StockService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:34:54.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\QuoteRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\QuoteRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\QuoteRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\QuoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:14:14.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\StockAppContext.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Models\\StockAppContext.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\StockAppContext.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Models\\StockAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:39:35.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebSocketController.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\WebSocketController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Controllers\\WebSocketController.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\WebSocketController.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Controllers\\WebSocketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:27:55.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WatchlistViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\ViewModels\\WatchlistViewModel.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\ViewModels\\WatchlistViewModel.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\ViewModels\\WatchlistViewModel.cs",
+              "RelativeToolTip": "StockAppWebApi2\\ViewModels\\WatchlistViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:24:10.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "StockAppWebApi2\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:11:59.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WatchlistService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\WatchlistService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\WatchlistService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\WatchlistService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\WatchlistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:25:48.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Controllers\\WatchlistController.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Controllers\\WatchlistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:28:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\WeatherForecast.cs",
+              "RelativeToolTip": "StockAppWebApi2\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:21:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "StockAppWebApi2\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:23:56.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Attributes\\JwtAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Attributes\\JwtAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Attributes\\JwtAuthorizeAttribute.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Attributes\\JwtAuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:14:23.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IWatchlistService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IWatchlistService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\IWatchlistService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IWatchlistService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\IWatchlistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:25:56.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IStockService.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Services\\IStockService.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Services\\IStockService.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Services\\IStockService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:35:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\WatchlistRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\WatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\WatchlistRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\WatchlistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:24:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\StockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:35:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IWatchlistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IWatchlistRepository.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Repositories\\IWatchlistRepository.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Repositories\\IWatchlistRepository.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Repositories\\IWatchlistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:24:50.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Watchlist.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\Watchlist.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Models\\Watchlist.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\Watchlist.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Models\\Watchlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:28:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HttpContextExtention.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Extensions\\HttpContextExtention.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Extensions\\HttpContextExtention.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Extensions\\HttpContextExtention.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Extensions\\HttpContextExtention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:04:17.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtAuthorizeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Filters\\JwtAuthorizeFilter.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Filters\\JwtAuthorizeFilter.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Filters\\JwtAuthorizeFilter.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Filters\\JwtAuthorizeFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:16:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T02:39:33.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\User.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Models\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA2wBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockAppWebApi2\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\ngquo\\source\\repos\\StockAppWebApi2\\StockAppWebApi2\\Models\\Stock.cs",
+              "RelativeToolTip": "StockAppWebApi2\\Models\\Stock.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwDQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:52:46.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
